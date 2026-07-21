@@ -1,12 +1,13 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Soumya Saxena</h1>
 
-# Hi 👋, I'm Soumya Saxena
+<h3 align="center">
+AI Engineer in Progress 🤖 • Full Stack Developer 💻 • B.Tech CSE (Cybersecurity)
+</h3>
 
-### 🤖 AI & Machine Learning Enthusiast • 💻 Full Stack Developer • 🎓 B.Tech CSE (Cybersecurity)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Building+LLM+%26+RAG+Applications;Python+%7C+FastAPI+%7C+React+%7C+MongoDB" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Building+LLM+%26+RAG+Applications;Python+%7C+FastAPI+%7C+React+%7C+MongoDB;Always+Learning+Something+New+🚀" />
-
-</div>
 
 ---
 

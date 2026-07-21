@@ -83,16 +83,13 @@ Responsive web applications built using React, Node.js, Express and MongoDB.
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=soumyasax3010&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyasax3010&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyasax3010&theme=github_dark"/>
 
 </p>
-
 ---
 
 # 🔥 Contribution Streak

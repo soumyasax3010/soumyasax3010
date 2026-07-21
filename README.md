@@ -1,88 +1,150 @@
-<h1 align="center">Hi 👋, I'm Soumya Saxena</h1>
+<div align="center">
 
-<h3 align="center">AI & Machine Learning Enthusiast | Full Stack Developer | B.Tech CSE (Cybersecurity)</h3>
+# Hi 👋, I'm Soumya Saxena
+
+### AI & Machine Learning Enthusiast • Full Stack Developer • B.Tech CSE (Cybersecurity)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+Applications;Exploring+LLMs+%26+RAG;Full+Stack+Developer;Always+Learning+Something+New+🚀" />
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech CSE (Cybersecurity) @ Chandigarh University
-- 🤖 Exploring Artificial Intelligence, LLMs & RAG
-- 🌱 Currently learning LangChain, FastAPI and Agentic AI
-- 💡 Passionate about solving real-world problems with AI
-- 💼 Open to Internship Opportunities
+🎓 **B.Tech in Computer Science & Engineering (Cybersecurity)**  
+📍 Chandigarh University
+
+💡 Passionate about building AI-powered applications and solving real-world problems.
+
+### Currently:
+- 🤖 Learning **Generative AI, LangChain & Agentic AI**
+- 📚 Building **RAG (Retrieval-Augmented Generation)** applications
+- ⚡ Developing projects with **FastAPI, Python & React**
+- 💼 Looking for **Software Development & AI/ML Internship Opportunities**
 
 ---
 
 ## 🚀 Tech Stack
 
-### Languages
-- Python
-- Java
-- C++
+<div align="center">
 
-### Web Development
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- Express.js
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,express,mongodb,mysql,postgres,git,github,vscode,fastapi,docker,postman&perline=9" />
 
-### Databases
-- MongoDB
-- MySQL
-- PostgreSQL
+</div>
 
-### AI / ML
+---
+
+## 🤖 AI & Machine Learning
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
 - LangChain
-- RAG
+- Prompt Engineering
 - FastAPI
 - OpenAI APIs
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+- Vector Databases
 
 ---
 
-## 🌟 Current Projects
+## 🌱 Currently Learning
 
-- 🤖 AI Interview Platform
-- 📚 Knowledge Base RAG Chatbot
-- 💬 AI-powered Applications
-
----
-
-## 📈 GitHub Stats
-
-![Soumya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumyasax3010&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyasax3010&layout=compact&theme=tokyonight)
+- Agentic AI
+- LangGraph
+- MCP (Model Context Protocol)
+- Advanced RAG Pipelines
+- Docker
+- Cloud Deployment
 
 ---
 
-## 📫 Connect With Me
+## 💼 Featured Projects
 
-- LinkedIn: https://linkedin.com/in/soumya-saxena
-- GitHub: https://github.com/soumyasax3010
+### 🤖 AI Interview Platform
+An intelligent interview platform that generates technical questions and evaluates responses using AI.
+
+### 📚 Knowledge Base RAG System
+A Retrieval-Augmented Generation system for querying custom knowledge bases using LLMs.
+
+### 🌐 Full Stack Web Applications
+Responsive web applications built with React, Node.js, Express, and MongoDB.
 
 ---
 
-⭐ Thanks for visiting my profile!
-<!--
-**soumyasax3010/soumyasax3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Statistics
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=soumyasax3010&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyasax3010&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=soumyasax3010&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🛠️ Development Workflow
+
+```text
+💡 Idea
+   ↓
+📝 Planning
+   ↓
+💻 Development
+   ↓
+🧪 Testing
+   ↓
+🚀 Deployment
+```
+
+---
+
+## 📈 Goals for 2026
+
+- ✅ Build production-ready AI applications
+- ✅ Master LangChain & Agentic AI
+- ✅ Contribute to Open Source
+- ✅ Complete impactful Full Stack projects
+- ✅ Secure an AI/Software Development Internship
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/soumyasax3010">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+*"Learning never stops. Every project is another step toward becoming a better developer."*
+
+⭐ If you like my work, consider starring my repositories!
+
+</div>

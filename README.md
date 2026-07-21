@@ -1,134 +1,140 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Soumya Saxena</h1>
 
-# Hi 👋, I'm Soumya Saxena
+<h3 align="center">
+AI Engineer in Progress 🤖 • Full Stack Developer 💻 • B.Tech CSE (Cybersecurity)
+</h3>
 
-### AI & Machine Learning Enthusiast • Full Stack Developer • B.Tech CSE (Cybersecurity)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+Applications;Exploring+LLMs+%26+RAG;Full+Stack+Developer;Always+Learning+Something+New+🚀" />
-
-</div>
-
----
-
-## 👩‍💻 About Me
-
-🎓 **B.Tech in Computer Science & Engineering (Cybersecurity)**  
-📍 Chandigarh University
-
-💡 Passionate about building AI-powered applications and solving real-world problems.
-
-### Currently:
-- 🤖 Learning **Generative AI, LangChain & Agentic AI**
-- 📚 Building **RAG (Retrieval-Augmented Generation)** applications
-- ⚡ Developing projects with **FastAPI, Python & React**
-- 💼 Looking for **Software Development & AI/ML Internship Opportunities**
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Building+LLM+%26+RAG+Applications;Python+%7C+FastAPI+%7C+React+%7C+MongoDB" />
+</p>
 
 ---
 
-## 🚀 Tech Stack
+# 👩‍💻 About Me
 
-<div align="center">
+🎓 B.Tech Computer Science (Cybersecurity) @ Chandigarh University
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,express,mongodb,mysql,postgres,git,github,vscode,fastapi,docker,postman&perline=9" />
+🤖 Passionate about Artificial Intelligence & Machine Learning
 
-</div>
+📚 Currently learning
+- LangChain
+- LangGraph
+- Agentic AI
+- MCP
+- Advanced RAG
+
+💻 Interested in
+- Artificial Intelligence
+- Full Stack Development
+- Backend Engineering
+- Generative AI
+
+🚀 Looking for Software Development & AI Internship Opportunities
 
 ---
 
-## 🤖 AI & Machine Learning
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,react,nodejs,express,mongodb,mysql,postgres,fastapi,docker,git,github,vscode,postman&perline=9"/>
+
+</p>
+
+---
+
+# 🤖 AI Skills
 
 - Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
+
+- Retrieval Augmented Generation (RAG)
+
 - LangChain
+
 - Prompt Engineering
+
 - FastAPI
+
 - OpenAI APIs
+
+- REST APIs
+
 - Vector Databases
 
 ---
 
-## 🌱 Currently Learning
-
-- Agentic AI
-- LangGraph
-- MCP (Model Context Protocol)
-- Advanced RAG Pipelines
-- Docker
-- Cloud Deployment
-
----
-
-## 💼 Featured Projects
+# 🌟 Featured Projects
 
 ### 🤖 AI Interview Platform
-An intelligent interview platform that generates technical questions and evaluates responses using AI.
 
-### 📚 Knowledge Base RAG System
-A Retrieval-Augmented Generation system for querying custom knowledge bases using LLMs.
-
-### 🌐 Full Stack Web Applications
-Responsive web applications built with React, Node.js, Express, and MongoDB.
+AI powered mock interview platform that generates technical interview questions and evaluates responses.
 
 ---
 
-## 📊 GitHub Statistics
+### 📚 Knowledge Base RAG Chatbot
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=soumyasax3010&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyasax3010&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+A FastAPI powered Retrieval-Augmented Generation chatbot capable of answering questions from custom documents.
 
 ---
 
-## 🔥 GitHub Streak
+### 🌐 Full Stack Applications
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=soumyasax3010&theme=tokyonight&hide_border=true"/>
-
-</div>
+Responsive web applications built using React, Node.js, Express and MongoDB.
 
 ---
 
-## 🛠️ Development Workflow
+# 📈 GitHub Stats
 
-```text
-💡 Idea
-   ↓
-📝 Planning
-   ↓
-💻 Development
-   ↓
-🧪 Testing
-   ↓
-🚀 Deployment
-```
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=soumyasax3010&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyasax3010&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📈 Goals for 2026
+# 🔥 Contribution Streak
 
-- ✅ Build production-ready AI applications
-- ✅ Master LangChain & Agentic AI
-- ✅ Contribute to Open Source
-- ✅ Complete impactful Full Stack projects
-- ✅ Secure an AI/Software Development Internship
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=soumyasax3010&theme=github-dark-blue&hide_border=true"/>
+
+</p>
 
 ---
 
-## 🤝 Connect With Me
+# 📊 Profile Views
 
-<p align="left">
+<p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<img src="https://komarev.com/ghpvc/?username=soumyasax3010&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build Production Ready AI Projects
+
+✅ Master LangChain & Agentic AI
+
+✅ Learn Cloud Deployment
+
+✅ Contribute to Open Source
+
+✅ Crack a Software Development Internship
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/soumya-saxena-bb89b4294/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/soumyasax3010">
@@ -141,10 +147,8 @@ Responsive web applications built with React, Node.js, Express, and MongoDB.
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-*"Learning never stops. Every project is another step toward becoming a better developer."*
-
-⭐ If you like my work, consider starring my repositories!
+> *"Building intelligent software, one project at a time."*
 
 </div>
